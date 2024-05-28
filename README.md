@@ -23,8 +23,9 @@ This project provides a simple algorithm to detect and count vehicles in an imag
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Naieem-55/vehicle_count_in_image
-    cd Vehicle_Count
+    git clone [https://github.com/Naieem-55/image_processing_vehicle_count.git]
+    cd Code
+    python veichle.py
     ```
 
 2. Install the required Python packages:
